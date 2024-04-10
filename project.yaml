@@ -1,0 +1,10 @@
+homepage: "https://github.com/Q5EbA7Vdyw84efER/nextjs-dashboard"
+language: c++
+primary_contact: "nkawxs@gmail.com"
+auto_ccs:
+sanitizers:
+  - address
+  - memory:
+      experimental: True
+  - undefined
+main_repo: 'https://github.com/Q5EbA7Vdyw84efER/nextjs-dashboard.git'
